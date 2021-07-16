@@ -10,6 +10,7 @@ namespace GitHubLoginsysteem
             Console.WriteLine("Hello ik ben katia!");
             Console.WriteLine("Hello World!");
             Console.WriteLine("Dashboard");
+            Console.WriteLine("Test 2");
             Console.WriteLine("Ik ben Tim!");
             Console.WriteLine("Ik ben niet kenny!");
         }
