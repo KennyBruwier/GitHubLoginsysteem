@@ -12,9 +12,9 @@ namespace GitHubLoginsysteem
             Console.WriteLine("Dashboard");
             Console.WriteLine("Test 2");
             Console.WriteLine("Ik ben Tim!");
+            Console.WriteLine("prettige vakantie");
             Console.WriteLine("Ik ben niet kenny!");
             Console.WriteLine("Dit is Noobmaster69");
-
         }
     }
 }
