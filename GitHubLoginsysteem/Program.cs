@@ -7,6 +7,7 @@ namespace GitHubLoginsysteem
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Ik ben Tim!");
         }
     }
 }
